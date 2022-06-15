@@ -1,4 +1,72 @@
 # Flutter Tutorial - ImageCropper - Pick & Crop Images
+## git@github.com:sramos30/image_cropper_example.git
+## https://www.youtube.com/watch?v=pXbBTJt7frM&t=23s
+
+Let's pick images and crop, rotate, scale, and save them with the ImageCropper Plugin in Flutter.
+Click here to Subscribe to Johannes Milke: https://www.youtube.com/JohannesMilke...
+
+- Source Code: https://github.com/JohannesMilke/imag...
+- Buy My Courses: https://johannesmilke.teachable.com/p...
+- Follow Twitter: https://twitter.com/intent/follow?ori...  
+
+        
+Resources:
+ImagePicker Plugin: https://pub.dev/packages/image_picker
+ImageCropper Plugin: https://pub.dev/packages/image_cropper
+Image Tutorial: https://www.youtube.com/watch?v=JDDoN...
+Image Advanced Tutorial: https://www.youtube.com/watch?v=7HoEs...
+FadeInImage Tutorial: https://www.youtube.com/watch?v=P4xkA...
+Basic Image Filter Tutorial: https://www.youtube.com/watch?v=v3doT... 
+Advanced Image Filter Tutorial: https://www.youtube.com/watch?v=81wOJ...
+Fitness UI App Tutorial: https://www.youtube.com/watch?v=4KQ-f...
+Onboarding UI Screen Tutorial: https://www.youtube.com/watch?v=CQlA2...
+      
+TIMELINE
+0:00 Cropping Introduction
+1:10 Pick Image
+3:01 Crop Image
+4:19 Crop Square Image
+8:35 Compress Image
+9:03 Android ImageCropper
+10:16 iOS ImageCropper
+11:19 Locked Aspect Ratio
+11:51 Free Aspect Ratio
+12:24 Custom Aspect Ratio
+
+--- JOIN THE CREW ---
+http://bit.ly/JohannesMilke
+
+SHARE | SUBSCRIBE | LIKE FOR MORE VIDEOS LIKE THIS
+
+*********
+
+SOCIAL MEDIA: Follow Me  :-)
+- Twitter: https://twitter.com/intent/follow?ori...
+- Linkedin: https://linkedin.com/in/JohannesMilke
+- Github: https://github.com/JohannesMilke
+
+PLAYLISTS 
+
+- All Flutter Videos: https://www.youtube.com/watch?v=3f9oq...
+- Widgets - Flutter: https://www.youtube.com/watch?v=1nEmF...
+- Plugins - Flutter: https://www.youtube.com/watch?v=3f9oq...
+- Animations - Flutter: https://www.youtube.com/watch?v=RLPZz...
+- Designs - Flutter: https://www.youtube.com/watch?v=aLwjk...
+- Firebase - Flutter: https://www.youtube.com/watch?v=Iruuz...
+
+If you find this video useful, LIKE & SHARE this video to help other people who also learn Flutter :)
+http://bit.ly/JohannesMilke
+
+CREDITS
+Copyright song "Corporate Technology" by scottholmesmusic.com
+
+#Flutter #Tutorial #JohannesMilke
+
+LIKE & SHARE & ACTIVATE THE BELL
+Thanks For Watching :-)
+
+
+
 [![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![Buy Flutter Courses](https://img.shields.io/static/v1?label=Buy&message=My%20Flutter%20Courses&color=5FB709&style=for-the-badge)][courses]
